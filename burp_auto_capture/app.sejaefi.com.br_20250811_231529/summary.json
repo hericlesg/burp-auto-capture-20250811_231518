@@ -1,0 +1,63 @@
+{
+  "capture_timestamp": "20250811_231529", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_001.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/recent-contacts?limit=5", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_001.txt", 
+      "timestamp": 1754962376655
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_002.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/keys/04738805479", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_002.txt", 
+      "timestamp": 1754962378922
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_003.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/recent-contacts?limit=5", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_003.txt", 
+      "timestamp": 1754962454575
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_004.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/keys/04738805479", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_004.txt", 
+      "timestamp": 1754962456877
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_005.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/pix/keys/14445567701", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_005.txt", 
+      "timestamp": 1754962521755
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_006.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/limits/pre-validation/pix/?destination=E090893562025081201356feaa4e32f8", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_006.txt", 
+      "timestamp": 1754962569373
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/request_007.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/account/balance/available", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250811_231529/response_007.txt", 
+      "timestamp": 1754962569459
+    }
+  ], 
+  "host": "app.sejaefi.com.br", 
+  "total_requests": 7
+}
